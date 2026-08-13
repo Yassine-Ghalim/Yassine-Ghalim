@@ -20,20 +20,19 @@
 ---
 
 **Backend & Frameworks** <br> 
-  <img src="https://skillicons.dev/icons?i=java,spring,php" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,c" alt="Backend Skills" />
 
   <br><br>**Frontend** <br> 
-  <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Frontend Skills" />
 
   <br><br>**Databases** <br> 
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database Skills" />
 
   <br><br>**DevOps, Cloud & Architecture** <br> 
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,githubactions" alt="DevOps Skills" />
 
-  <br><br>**Monitoring & Tools** <br> 
-  <img src="https://skillicons.dev/icons?i=git,grafana,linux" alt="Tools" />
-
+  <br><br>**Monitoring, Web Servers & Tools** <br> 
+  <img src="https://skillicons.dev/icons?i=git,grafana,elasticsearch,nginx,linux,postman" alt="Tools" />
 ---
 
 ### 📈 GitHub Activity
