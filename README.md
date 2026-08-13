@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,c,angular,ts,js,html,css,bootstrap,postgres,mysql,mongodb,docker,kubernetes,aws,terraform,jenkins,githubactions,git,grafana,elasticsearch,nginx,linux,postman" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,c,angular,ts,js,html,css,bootstrap,postgres,mysql,mongodb,docker,kubernetes,aws,jenkins,githubactions,git,grafana,elasticsearch,nginx,linux,postman" alt="My Tech Stack" />
 </div>
 
 ---
