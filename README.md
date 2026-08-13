@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Yassine Ghalim! 👋</h1>
-  <h3>Full-Stack Software Engineer & DevOps Specialist</h3>
+  <h1>Hi there, I'm Yassine Ghalim!​</h1>
+  <h3>⭐​⭐​Full-Stack Software Engineer & DevOps Specialist⭐​⭐​</h3>
   <p><i>Bridging the gap between development and operations to build scalable, cloud-native solutions.</i></p>
 </div>
 
