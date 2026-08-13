@@ -10,7 +10,6 @@
 
 * 🎓 **Background:** Master's degree in DevOps & Cloud Computing, backed by a Bachelor's in Mathematics and Computer Science.
 * 💼 **Experience:** Strong foundation in full-stack development (Java/Spring) and CI/CD automation, with hands-on experience building and deploying resilient applications.
-* 🏆 **Agile Ready:** Certified with the Scrum Foundation Professional Certificate (SFPC).
 * 🌱 **Current Focus:** Currently deep-diving into advanced cluster configuration to crush my **Certified Kubernetes Administrator (CKA)** exam.
 * ⚡ **Fun Fact:** When I'm not writing code or provisioning infrastructure, you can usually find me analyzing professional football stats, playing mobile games, or tutoring students in math and computer science!
 
