@@ -1,21 +1,21 @@
-                                              ⭐# ​Hi there, I'm Yassine Ghalim ⭐​
-### Full-Stack Software Engineer & DevOps Specialist
+<div align="center">
+  <h1>Hi there, I'm Yassine Ghalim! 👋</h1>
+  <h3>Full-Stack Software Engineer & DevOps Specialist</h3>
+  <p><i>Bridging the gap between development and operations to build scalable, cloud-native solutions.</i></p>
+</div>
 
-I am a passionate software engineer who bridges the gap between development and operations. With a **Master's degree in DevOps & Cloud Computing**, I specialize in designing robust backend architectures, building scalable microservices, and automating cloud-native infrastructure. 
+---
 
-My goal is to deliver high-quality, end-to-end solutions from writing clean code to deploying highly available applications.
+### 👨‍💻 A Little About Me
+
+* 🎓 **Background:** Master's degree in DevOps & Cloud Computing, backed by a Bachelor's in Mathematics and Computer Science.
+* 💼 **Experience:** Strong foundation in full-stack development (Java/Spring) and CI/CD automation, with hands-on experience building and deploying resilient applications.
+* 🏆 **Agile Ready:** Certified with the Scrum Foundation Professional Certificate (SFPC).
+* 🌱 **Current Focus:** Currently deep-diving into advanced cluster configuration to crush my **Certified Kubernetes Administrator (CKA)** exam.
+* ⚡ **Fun Fact:** When I'm not writing code or provisioning infrastructure, you can usually find me analyzing professional football stats, playing mobile games, or tutoring students in math and computer science!
 
 ---
 
-### 🚀 About Me
-
-- 💼 **Experience:** I bring hands-on experience in full-stack development and CI/CD automation, recently honed during an intensive end-of-studies internship where I built and deployed scalable applications.
-- 🎓 **Education:** Master's degree in DevOps & Cloud Computing | Bachelor's in Mathematics and Computer Science.
-- 🏆 **Certifications:** Scrum Foundation Professional Certificate (SFPC) – effectively applying Agile methodologies to software development lifecycles.
-- 🌱 **Current Focus:** Deep-diving into advanced cluster configuration and administration in preparation for my **CKA (Certified Kubernetes Administrator)** certification.
-- 🤝 **Open To:** Roles as a Junior Software Engineer, Java Developer, or DevOps Engineer where I can contribute to high-impact, scalable projects.
-
----
 ### 🛠️ Technical Arsenal
 
 **Backend & Frameworks**  
@@ -27,24 +27,38 @@ My goal is to deliver high-quality, end-to-end solutions from writing clean code
 **Frontend**  
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**DevOps & Cloud**  
+**DevOps, Cloud & Architecture**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Databases & Tools**  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
-### 📫 Let's Connect
+### 📈 GitHub Activity
 
-Looking to collaborate on a project or have a role that fits my stack? Feel free to reach out!
+<div align="center">
+  <!-- NOTE: Replace 'YourGitHubUsername' with your actual GitHub username below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yassine-Ghalim&show_icons=true&theme=radical" alt="Yassine's GitHub Stats" />
+</div>
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yassine-ghalim-b3b749275/
-- 📧 **Email:** ghalimyassine3@gmail.com
+---
+
+### 📫 Let's Connect!
+
+If you're looking for a dedicated engineer for your next project, or just want to talk tech, feel free to reach out:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yassine-ghalim-b3b749275">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="ghalimyassine3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
