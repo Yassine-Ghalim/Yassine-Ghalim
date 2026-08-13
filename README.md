@@ -1,60 +1,41 @@
-# 👋 Hi, I'm Yassine Ghalim
+# Hi there, I'm Yassine Ghalim 👋
+### Full-Stack Software Engineer & DevOps Specialist
 
-🎓 Master's graduate in DevOps & Cloud Computing with a strong background in software engineering, cloud technologies, and modern application development.
+I am a passionate software engineer who bridges the gap between development and operations. With a **Master's degree in DevOps & Cloud Computing**, I specialize in designing robust backend architectures, building scalable microservices, and automating cloud-native infrastructure. 
 
-💡 Passionate about building scalable applications, automating infrastructure, and implementing cloud-native solutions.
-
----
-
-## 🚀 About Me
-
-- 💻 Strong background in Java development and backend engineering
-- ☁️ Interested in DevOps, Cloud Computing, and Kubernetes
-- 🌱 Currently preparing for the Certified Kubernetes Administrator (CKA)
-- 📚 Continuously learning new technologies and best practices
-- 🤝 Open to Junior Software Engineer, Java Developer, and DevOps opportunities
+My goal is to deliver high-quality, end-to-end solutions from writing clean code to deploying highly available applications.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-### Languages
-Java • Python • TypeScript • JavaScript • PHP • SQL • C
-
-### Backend
-Spring Boot • Spring Security • Spring Cloud • Hibernate • REST APIs
-
-### Frontend
-Angular • HTML • CSS • Bootstrap
-
-### Databases
-PostgreSQL • MySQL • MongoDB • Oracle SQL
-
-### DevOps & Cloud
-Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Nginx
-
-### Cloud Platforms
-AWS (EC2, ECS, ECR)
-
-### Monitoring & Observability
-Grafana • ELK Stack
-
-### Tools
-Git • GitHub • GitLab • Linux • Postman • VS Code • IntelliJ IDEA
+- 💼 **Experience:** I bring hands-on experience in full-stack development and CI/CD automation, recently honed during an intensive end-of-studies internship where I built and deployed scalable applications.
+- 🎓 **Education:** Master's degree in DevOps & Cloud Computing | Bachelor's in Mathematics and Computer Science.
+- 🏆 **Certifications:** Scrum Foundation Professional Certificate (SFPC) – effectively applying Agile methodologies to software development lifecycles.
+- 🌱 **Current Focus:** Deep-diving into advanced cluster configuration and administration in preparation for my **CKA (Certified Kubernetes Administrator)** certification.
+- 🤝 **Open To:** Roles as a Junior Software Engineer, Java Developer, or DevOps Engineer where I can contribute to high-impact, scalable projects.
 
 ---
 
-## 📌 Current Focus
+### 🛠️ Technical Arsenal
 
-- Kubernetes Administration (CKA)
-- Cloud-Native Applications
-- CI/CD Pipelines
-- Infrastructure as Code
-- Microservices Architecture
+**Software Development**
+- **Backend:** Java, Spring Boot, Spring Security, Spring Cloud, Hibernate, RESTful APIs, PHP, C
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5/CSS3, Bootstrap
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle SQL
+
+**DevOps, Cloud & Infrastructure**
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Cloud Platforms:** AWS (EC2, ECS, ECR)
+- **CI/CD & Automation:** Jenkins, GitHub Actions, Terraform (IaC)
+- **Monitoring & Observability:** Grafana, ELK Stack
+- **Web Servers & Tools:** Nginx, Linux, Git, Postman
 
 ---
 
-## 📫 Connect with Me
+### 📫 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your.email@gmail.com
+Looking to collaborate on a project or have a role that fits my stack? Feel free to reach out!
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yassine-ghalim-b3b749275/
+- 📧 **Email:** ghalimyassine3@gmail.com
