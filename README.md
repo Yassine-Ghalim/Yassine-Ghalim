@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⭐​ Hi there, I'm Yassine Ghalim! ⭐​</h1>
+  <h1>​✨ Hi there, I'm Yassine Ghalim! ✨​</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=326CE5&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;DevOps+Specialist" alt="Typing Animation" />
@@ -18,21 +18,10 @@
 * ⚡ **Fun Fact:** When I'm not writing code or provisioning infrastructure, you can usually find me analyzing professional football stats, playing mobile games, or tutoring students in math and computer science!
 
 ---
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,c,angular,ts,js,html,css,bootstrap,postgres,mysql,mongodb,docker,kubernetes,aws,terraform,jenkins,githubactions,git,grafana,elasticsearch,nginx,linux,postman" alt="My Tech Stack" />
+</div>
 
-**Backend & Frameworks** <br> 
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,c" alt="Backend Skills" />
-
-  <br><br>**Frontend** <br> 
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" alt="Frontend Skills" />
-
-  <br><br>**Databases** <br> 
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database Skills" />
-
-  <br><br>**DevOps, Cloud & Architecture** <br> 
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,githubactions" alt="DevOps Skills" />
-
-  <br><br>**Monitoring, Web Servers & Tools** <br> 
-  <img src="https://skillicons.dev/icons?i=git,grafana,elasticsearch,nginx,linux,postman" alt="Tools" />
 ---
 
 ### 📈 GitHub Activity
