@@ -1,4 +1,4 @@
-                                                            ⭐# ​Hi there, I'm Yassine Ghalim ⭐​
+                                              ⭐# ​Hi there, I'm Yassine Ghalim ⭐​
 ### Full-Stack Software Engineer & DevOps Specialist
 
 I am a passionate software engineer who bridges the gap between development and operations. With a **Master's degree in DevOps & Cloud Computing**, I specialize in designing robust backend architectures, building scalable microservices, and automating cloud-native infrastructure. 
