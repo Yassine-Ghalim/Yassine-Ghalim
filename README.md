@@ -1,6 +1,10 @@
 <div align="center">
-  <h1>Hi there, I'm Yassine Ghalim!​</h1>
-  <h3>⭐​⭐​Full-Stack Software Engineer & DevOps Specialist⭐​⭐​</h3>
+  <h1>⭐​ Hi there, I'm Yassine Ghalim! ⭐​</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=326CE5&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;DevOps+Specialist" alt="Typing Animation" />
+  </a>
+
   <p><i>Bridging the gap between development and operations to build scalable, cloud-native solutions.</i></p>
 </div>
 
